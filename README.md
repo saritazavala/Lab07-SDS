@@ -1,2 +1,2 @@
 # Lab07-SDS
-Laboratorio #6 – Clasificación de  malware con DL 
+Laboratorio #7 – Clasificación de  malware con DL 
